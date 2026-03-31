@@ -2,7 +2,7 @@ public class DebtTest {
 
     public void test(){
 
-        String password = "123456";   // security issue
+        String password = "123456";   
 
         if(true){
             if(true){
@@ -12,6 +12,6 @@ public class DebtTest {
             }
         }
 
-        int retry = 5;   // magic number
+        int retry = 5;   
     }
 }
